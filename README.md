@@ -17,20 +17,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Array
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
