@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0178-rank-scores) |
 | [1068-product-sales-analysis-i](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
