@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [1068-product-sales-analysis-i](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1890-the-latest-login-in-2020](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/1890-the-latest-login-in-2020) |
 ## Math
 |  |
 | ------- |
