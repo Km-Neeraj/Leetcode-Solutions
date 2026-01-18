@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
