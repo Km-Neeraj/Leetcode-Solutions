@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -101,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
