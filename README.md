@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Bit Manipulation
 |  |
 | ------- |
