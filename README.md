@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Km-Neeraj/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
